@@ -8,6 +8,7 @@ Project Overview:
 
 Project Description
 
+
  1. Create a C# console project in Visual Studio Code and name it “p6_your-ulid”. Then,  
 
 
